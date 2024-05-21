@@ -3,13 +3,14 @@
 
 - 📫 How to reach me **pratiksha80797@gmail.com**
 - <div style="display: flex; align-items: center;">
-  <a href="linkedin.com/in/pratiksha-prasad-62172b227/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/pratiksha-prasad-62172b227/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="15" height="15" style="margin-right: 10px;"/>
   </a>
-  <a href="linkedin.com/in/pratiksha-prasad-62172b227/" target="_blank" rel="noreferrer" style="text-decoration: none; color: #0077B5;">
+  <a href="https://www.linkedin.com/in/pratiksha-prasad-62172b227/" target="_blank" rel="noreferrer" style="text-decoration: none; color: #0077B5;">
     Connect with me on LinkedIn
   </a>
 </div>
+
 
 
  
