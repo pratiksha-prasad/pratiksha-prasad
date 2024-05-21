@@ -2,13 +2,15 @@
 <h3 align="left">A passionate and driven individual on a quest to become a skilled software engineer. With a love for problem solving and a knack for coding, I'm constantly exploring new technologies and seeking out innovative solutions to real-world challenges.</h3>
 
 - 📫 How to reach me **pratiksha80797@gmail.com**
-- <div style="display: inline-block;">
-  <a href="https://www.linkedin.com/in/pratiksha-prasad-62172b227/" target="https://www.linkedin.com/in/pratiksha-prasad-62172b227/" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="15" height="15"/>
+- <div style="display: flex; align-items: center;">
+  <a href="linkedin.com/in/pratiksha-prasad-62172b227/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="15" height="15" style="margin-right: 10px;"/>
   </a>
-  <span>&nbsp;</span> <!-- Add some space between the image and the text -->
-  <span><a href="linkedin.com/in/pratiksha-prasad-62172b227/" target="_blank" rel="noreferrer">Connect with me on LinkedIn</a></span>
+  <a href="linkedin.com/in/pratiksha-prasad-62172b227/" target="_blank" rel="noreferrer" style="text-decoration: none; color: #0077B5;">
+    Connect with me on LinkedIn
+  </a>
 </div>
+
 
  
 
