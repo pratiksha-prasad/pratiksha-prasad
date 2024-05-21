@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Pratiksha Prasad</h1>
-<h3 align="left">A passionate and driven individual on a quest to become a skilled software engineer. With a love for problem solving and a knack for coding, I'm constantly exploring new technologies and seeking out innovative solutions to real-world challenges.</h3>
+<h3 align="left">A passionate individual on a quest to become a skilled software engineer. With a love for problem solving and a knack for coding, I'm constantly exploring new technologies and seeking out innovative solutions to real-world challenges.</h3>
 
 - 📫 How to reach me **pratiksha80797@gmail.com**
 - <div style="display: flex; align-items: center;">
