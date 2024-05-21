@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **pratiksha80797@gmail.com**
 - <div style="display: inline-block;">
-  <a href="https://www.linkedin.com/in/pratiksha-prasad-62172b227/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/pratiksha-prasad-62172b227/" target="https://www.linkedin.com/in/pratiksha-prasad-62172b227/" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="15" height="15"/>
   </a>
   <span>&nbsp;</span> <!-- Add some space between the image and the text -->
